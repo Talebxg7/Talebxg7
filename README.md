@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he
-- ⚡ Fun fact: bad coder 
+
 
 <!---
 Talebxg7/Talebxg7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
