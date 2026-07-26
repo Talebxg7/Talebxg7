@@ -1,3 +1,6 @@
+https://talebxg7.github.io/Taleb/
+
+
 # 💫 About Me:
 🔭 I'm currently working on: Who Will Win — a sports prediction platform (React, Vite, Tailwind CSS, Express, PostgreSQL) available on Google Play and at whowillwinapp.com<br><br>👯 I'm looking to collaborate on: full-stack web & mobile projects, especially ones involving React, Flutter, or applied AI<br><br>🌱 I'm currently learning: AI/ML concepts and tools — I built a rational AI agent (Logic + Math + Optimization) for my Principles of AI course, and I'm expanding into practical AI application development<br><br>💬 Ask me about: React, Flutter, full-stack development, or building AI-powered solutions<br><br>⚡ Fun fact: I recently graduated with a Bachelor's in Software Engineering from Istinye University, Istanbul 🎓
 
